@@ -1,7 +1,10 @@
 # Denizen-powered Compojure demo app
 
 This demo Clojure web app uses Denizen for user registration and login.
-It has the following routes:
+
+You may want to [watch a short video overview](https://www.youtube.com/watch?v=y8gQRqQTHGI) of how this codebase fits into Denizen.
+
+This web app has the following routes:
 
     /          (can be viewed by anyone)
     /private/  (can only be viewed by logged-in users)
